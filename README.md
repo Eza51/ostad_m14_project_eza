@@ -19,7 +19,9 @@ Clone the repository:
 
 git clone https://github.com/Eza51/ostad_m14_project_eza.git
 cd ostad_m14_project_eza
+key generate
 php artisan key:generate
+project serve
 php artisan serve
 📁 Project Structure
 

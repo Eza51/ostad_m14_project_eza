@@ -1,7 +1,7 @@
 Laravel Portfolio Website
 📘 Project Overview
 
-This is a personal portfolio website built with Laravel 12.25.0, showcasing my skills, projects, and providing a contact form. The website includes the following pages:
+This is a personal portfolio website built with Laravel 12.25.0, showcasing  skills, projects, and providing a contact form. The website includes the following pages:
 
 Home Page: Welcome message and introduction
 
